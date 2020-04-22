@@ -2,7 +2,9 @@
 
 Coded by:
 *Prajwal Krishna*
+
 *Faizan Khan *
+
 *Aryan Sakaria*
 
 This *README* file contains :
