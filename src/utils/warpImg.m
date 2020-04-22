@@ -17,7 +17,7 @@ function warped_reference_frame=merge_patches(input_image, correspondence, refer
   for i=1:h
     for j=1:w
       optimal_idx=candidates(i,j).optimal_idx;
-      patches_from_candidates(:,i,j) = candidates(i,j).patches(optimal_idx,:);
+      patches_from_candidates(:,i,j) = candidates(i,j).patches(optimal_idx,:)';
     end
   end
   [height,width,num_channel]=size(input_image);
