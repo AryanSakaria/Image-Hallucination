@@ -3,7 +3,7 @@
 Coded by:
 *Prajwal Krishna*
 
-*Faizan Khan *
+*Faizan Khan*
 
 *Aryan Sakaria*
 
